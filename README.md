@@ -3,6 +3,15 @@
 ### > First year student at the University of British Columbia  in the Faculty of Science
 ### > Currently working on some personal projects!
 
+# - 🔭 I’m currently working on some personal projects!
+# - 🌱 I’m currently learning how to do everything
+# - 👯 I’m looking to collaborate on nothing right now
+# - 🤔 I’m looking for help with how to find a job :(
+# - 💬 Ask me about ...
+# - 📫 How to reach me: ...
+# - 😄 Pronouns: ...
+# - ⚡ Fun fact: ...
+
 ### Reach me on Instagram or Discord: @happicatalpa
 
 <!--
