@@ -1,7 +1,9 @@
-### Hi there 👋 my name is .........................
+### Gina Liu (she/her)
 
-### jk im actually gina
-### this is all your fault ☢️☢️
+### > First year student at the University of British Columbia  in the Faculty of Science
+### > Currently working on some personal projects!
+
+### Reach me on Instagram or Discord: @happicatalpa
 
 <!--
 **happicatalpa/happicatalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
