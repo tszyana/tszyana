@@ -1,7 +1,7 @@
-### Gina Liu (she/her)
+# Gina Liu (she/her)
 
-### > Second year student at the University of British Columbia studying Computer Science
-### > Currently working on some personal projects!
+### Second year student at the University of British Columbia studying Computer Science
+### Currently working on some personal projects!
 ### I love dogs, robotics, crocheting, and Pokemon!
 
 # - 📫 How to reach me: 
