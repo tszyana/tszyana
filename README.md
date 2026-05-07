@@ -1,18 +1,14 @@
 ### Gina Liu (she/her)
 
-### > First year student at the University of British Columbia  in the Faculty of Science
+### > Second year student at the University of British Columbia studying Computer Science
 ### > Currently working on some personal projects!
+### I love dogs, robotics, crocheting, and Pokemon!
 
-# - 🔭 I’m currently working on some personal projects!
-# - 🌱 I’m currently learning how to do everything
-# - 👯 I’m looking to collaborate on nothing right now
-# - 🤔 I’m looking for help with how to find a job :(
-# - 💬 Ask me about ...
-# - 📫 How to reach me: ...
-# - 😄 Pronouns: ...
-# - ⚡ Fun fact: ...
+# - 📫 How to reach me: 
+## - Email: ginatyliu@gmail.com
+## - Discord: tszyana
+## - Instagram: l.tszyana
 
-### Reach me on Instagram or Discord: @happicatalpa
 
 <!--
 **happicatalpa/happicatalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
